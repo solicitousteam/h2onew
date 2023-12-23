@@ -1,0 +1,2 @@
+[22-Jun-2022 18:14:47 Indian/Antananarivo] PHP Fatal error:  Cannot use DB as DB because the name is already in use in /home/solicitous/public_html/h2o/app/Http/Controllers/API/UserAPIController.php on line 26
+[17-Apr-2023 14:11:31 Indian/Antananarivo] PHP Fatal error:  Cannot redeclare App\Http\Controllers\API\AllNotificationController::payment_by_employer() in /home/solicitous/public_html/h2o/app/Http/Controllers/API/AllNotificationController.php on line 161
